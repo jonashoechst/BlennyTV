@@ -17,4 +17,4 @@ ___
 
 Download the latest [Release.](https://github.com/chschroeda/BlennyTV/releases)
 
-
+Install using Homebrew: ```brew cask install jonashoechst/hoechst/blennytv```
